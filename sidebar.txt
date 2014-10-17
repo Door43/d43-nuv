@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nuv:home|Door43 (nuv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nuv|d43-nuv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nuv/archive/master.zip|d43-nuv.zip]]
+
+**Recent Changes**
+{{changes>ns = nuv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nuv|Ethnologue data]]
+
